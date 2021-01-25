@@ -1,0 +1,186 @@
+[
+    {
+        "toplevel_name": "USTCFavorites"
+    },{
+        "url": "https://outlook.office.com/",
+        "name": "Court Email"
+    },{
+        "url": "https://ustaxcourt.gov",
+        "name": "USTC - Internet"
+    },{
+        "url": "https://ustaxcourt.sharepoint.com/",
+        "name": "USTC - Intranet"
+    },{
+        "url":"https://ustaxcourt.sharepoint.com/SitePages/Directories.aspx",
+        "name":"Court Directory"
+
+    },{
+        "url":"https://ustaxcourt.sharepoint.com/SitePages/Reporter's-Office.aspx",
+        "name": "Reporter's Office"
+    },{
+        "url": "https://myaccount.microsoft.com",
+        "name": "Court Password Reset"
+    },{
+        "name": "DAWSON-Case Management",
+        "children": [
+            {
+                "url": "https://dawson.ustaxcourt.gov/",
+                "name": "DAWSON"
+            },
+            {
+                "url": "https://github.com/ustaxcourt/ef-cms",
+                "name": "Dawson GitHub"
+            }
+        ]
+    },
+    {
+        "name": "HR",
+        "children": [
+            {
+                "url":"https://ustaxcourt.sharepoint.com/SitePages/Human-Resources.aspx",
+                "name":"HR Homepage"
+            },{
+                "url":"https://www.employeeexpress.gov/Default.aspx",
+                "name": "Employee Express"
+            },{
+
+                "url": "https://jou.skillport.com/",
+                "name": "JudiciaryOnlineUniversity"
+            },{
+                "url": "https://qtime.ibc.doi.gov/proweb/qtime1572/login",
+                "name": "QuickTime(TimeKeeping)"
+            },{
+                "url":"https://webfpps.ibc.doi.gov",
+                "name":"FPPS"
+            },{
+                "url":"https://fppsinfo.ibc.doi.gov",
+                "name":"FPPS Info"
+            },{
+                "url":"https://dmartportal.ibc.doi.gov",
+                "name":"Datamart Portal"
+            },{
+                "url":"https://datamart-login.nbc.gov",
+                "name":"Datamart Hyperion"
+            },{
+                "url":"https://training.ibc.doi.gov",
+                "name":"IBC Training"
+            }
+        ]
+    },
+    {
+        "name": "Library",
+        "children": [
+            {
+                "url": "https://ustc.kohalibrary.com/",
+                "name": "LibLimeKoha"
+            },
+            {
+                "url": "https://www.bloomberglaw.com/start",
+                "name": "BloombergLaw"
+            },
+            {
+                "url": "https://www.bloomberglaw.com/product/tax/page/page_federal",
+                "name": "BloombergLaw:Tax"
+            },
+            {
+                "url": "https://heinonline.org/",
+                "name": "HeinLaw"
+            },
+            {
+                "url": "https://www.law360.com/",
+                "name": "Law360"
+            },
+            {
+                "url": "https://signin.lexisnexis.com/lnaccess/app/signin?back=https%3A%2F%2Fadvance.lexis.com%3A443%2F&aci=la",
+                "name": "LexisAdvance"
+            },
+            {
+                "url": "https://www.oed.com/",
+                "name": "OxfordEnglishDictionary"
+            },
+            {
+                "url": "https://search.proquest.com/legislativeinsight",
+                "name": "Proquest"
+            },
+            {
+                "url": "https://search.proquest.com/legislativeinsight",
+                "name": "LegislativeInsight"
+            },
+            {
+                "url": "https://www.taxnotes.com/",
+                "name": "TaxAnalysts"
+            },
+            {
+                "url": "https://1.next.westlaw.com/",
+                "name": "WestLaw"
+            }
+        ]
+    },
+    {
+        "name": "Facilities",
+        "children": [
+            {
+                "url": "http://nt-01.ustc-domain.ustaxcourt.gov/FileTrail/",
+                "name": "File Trail"
+            },
+            {
+                "url": "http://nt-01.ustc-domain.ustaxcourt.gov/CSS",
+                "name": "Courtroom Scheduling"
+            }
+        ]
+    },
+    {
+        "name": "Finance",
+        "children": [
+            {
+                "url":"https://arc.fiscal.treasury.gov/fs/fscust_exit.htm?https://home.cards.citidirect.com/CommercialCard/Cards.html",
+                "name": "Citi Direct"
+            },
+            {
+                "url":"https://cge.concursolutions.com/",
+                "name": "ConcurGov"
+            },
+            {
+                "url": "https://www.igt.fiscal.treasury.gov/",
+                "name": "G-Invoicing"
+            },
+            {
+                "url": "https://www.ipp.gov/",
+                "name": "IPP"
+            },
+            {
+                "url": "https://c1pn4fw1.fiscal.treasury.gov/OA_HTML/AppsLocalLogin.jsp",
+                "name": "Oracle OBI"
+            },
+            {
+                "url": "https://b1pr1.fiscal.treasury.gov",
+                "name": "Oracle OBI (Direct)"
+            },
+            {
+                "url": "https://c1pn3pw1.fiscal.treasury.gov/prismnet/Security/logon.aspx",
+                "name": "PRISM"
+            },
+            {
+                "name": "Training/Dev",
+                "children":[
+                    {
+                        "url":"https://c0dv18pw1.fiscal.treasury.gov/prismnet/Security/logon.aspx",
+                        "name":"Dev18: Prism"
+                    },{
+                        "url":"https://c0dv18fw1.fiscal.treasury.gov/OA_HTML/AppsLocalLogin.jsp ",
+                        "name":"Dev18: Oracle"
+                    },{
+                        "url":"https://c1ts4fw1.fiscal.treasury.gov/OA_HTML/AppsLocalLogin.jsp ",
+                        "name":"Test: RACTEST"
+                    },{
+                        "url":"https://c0dv11fw1.fiscal.treasury.gov/OA_HTML/AppsLocalLogin.jsp ",
+                        "name":"Training: Oracle"
+                    },{
+                        "url":"https://c0dv11pw1.fiscal.treasury.gov/prismnet/Security/logon.aspx ",
+                        "name":"Training: Prism"
+                    }
+                ]
+            }
+        ]
+    }
+]
